@@ -2,7 +2,7 @@
 
 
 
-- 📫 How to reach me <a href="https://t.me/abdyldaeev">Telegram</a>
+- 📫 How to reach me: <a href="https://t.me/abdyldaeev">Telegram</a>
 
 <!---
 BekaZR/BekaZR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
